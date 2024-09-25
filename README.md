@@ -21,3 +21,15 @@ Links
 Experiments
 
 •😭💕😝🫶🏾
+
+Keyboard shortcuts:
+
+ control + z : (undo)
+ control + C : (copy)
+ control + P : (paste)
+
+ keyboard shortcuts i want to use:
+
+ control + A : ( select items)
+ control + X : (copy the selected items to clipboard)
+ 
